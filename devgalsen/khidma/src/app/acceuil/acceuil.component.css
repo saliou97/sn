@@ -1,0 +1,17 @@
+#back{
+  background-image: url("../../assets/accueil.jpeg");
+  background-size: 100%;
+  background-size: cover ;
+}
+a,
+a:visited,
+a:hover {
+  color: darkblue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkblue;
+}
+
+
