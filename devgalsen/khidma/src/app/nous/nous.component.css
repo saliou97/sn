@@ -1,0 +1,11 @@
+.container{
+  width: 50%;
+  margin-left: 30%;
+  margin-top: 10%;
+}
+
+.nous{
+  background-image: url("../../assets/nous.jpeg");
+  background-size: 100%;
+  background-size: cover ;
+}

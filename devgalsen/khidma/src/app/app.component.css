@@ -1,4 +1,8 @@
-
+.app{
+  background-image: url("./../assets/accueil.jpeg");
+  background-size: 100%;
+  background-size: cover ;
+}
 p {
   margin: 0;
 }
